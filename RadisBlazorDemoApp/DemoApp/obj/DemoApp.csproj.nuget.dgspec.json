@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.6.80, )"

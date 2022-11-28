@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iun8Fhs1nbnMWnCkuDPzLn9v8u94W+ba/ABPScI9mjCwY9m5Fo7Ka5k0I3mgVlu7XRebxA0zARwDw+Oh3NmNmQ==",
+  "dgSpecHash": "Y6uEfYx0Fk1LPZo/o1wIsHfpf9pBU3XuO1O5snzxyf7Z01lXOl3gCQQXco0CbtJLR6RX3X6eU9KB96Qqh9H6HQ==",
   "success": true,
   "projectFilePath": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\DemoApp.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\stackexchange.redis\\2.6.80\\stackexchange.redis.2.6.80.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
