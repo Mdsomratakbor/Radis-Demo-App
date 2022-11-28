@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "qIE2g0yikHgfTJYupHOtxYYj13lZTUEdg2htMM47RuFPObqBeKQciwik6QeZEriVo0h9lzVPbQPO0Kvor+j64Q==",
+  "dgSpecHash": "iun8Fhs1nbnMWnCkuDPzLn9v8u94W+ba/ABPScI9mjCwY9m5Fo7Ka5k0I3mgVlu7XRebxA0zARwDw+Oh3NmNmQ==",
   "success": true,
-  "projectFilePath": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\DemoApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\7.0.0\\microsoft.extensions.caching.stackexchangeredis.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\stackexchange.redis\\2.6.80\\stackexchange.redis.2.6.80.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
