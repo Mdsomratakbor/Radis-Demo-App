@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ORiD27E7tsmcJfB1KnpbPLZ2qorQK5bC5F807jiFOQc=",
+  "Hash": "XKS/YUWFE0uaj3bQCT04UE9wCXLt2Eck1FCQVNTEUNw=",
   "Source": "DemoApp",
   "BasePath": "_content/DemoApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DemoApp\\wwwroot",
       "Source": "DemoApp",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DemoApp.styles.css",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DemoApp.styles.css",
       "SourceId": "DemoApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "DemoApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DemoApp.styles.css"
+      "OriginalItemSpec": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DemoApp.styles.css"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DemoApp.bundle.scp.css",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DemoApp.bundle.scp.css",
       "SourceId": "DemoApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "DemoApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DemoApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DemoApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\css\\site.css",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\css\\site.css",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\favicon.ico",
       "SourceId": "DemoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\DemoApp\\DemoApp\\wwwroot\\",
+      "ContentRoot": "D:\\PersonalProject\\BlazorApp\\RadisBlazorDemoApp\\DemoApp\\wwwroot\\",
       "BasePath": "_content/DemoApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
